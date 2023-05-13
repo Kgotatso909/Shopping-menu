@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CheckBoxExample
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=
+comment2.target=void\ orderBtnHander()
+comment3.params=
+comment3.target=void\ cancelBtnHandler()
+numComments=4
